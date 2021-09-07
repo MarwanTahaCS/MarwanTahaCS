@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarwanTahaCS
-- 👀 I’m interested in Algorithm implementation
-- 🌱 I’m currently learning OOP functionalities
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Computer Science at Hadassah Academic College
+- 🌱 I’m currently inrolled in a Web-Development bootcamp
+- 💞️ I’m looking to get professional skills in Web-Development, and use that to jump to the next step, in addition to use it as a source of income.
 - 📫 How to reach me Marwant99.7@gmail.com
 
 <!---
