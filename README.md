@@ -2,8 +2,7 @@
 - 👀 I’m a Computer Science Student at Hadassah Academic College
 - 🌱 I have lately finished a Bootcamp Web Development Course, with many projects 
       to show off so much of what i have practiced.
-- 💞️ I’m looking to get professional skills in Web-Development, and use that to jump 
-      to the next step, in addition to use it as a source of income.
+- 💞️ I’m looking to get an entry job and get industrial professioncy within a High-Tech company.
 - 📫 How to reach me Marwant99.7@gmail.com
 
 <!---
